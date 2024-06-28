@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(202, 240, 240);
+}
+
+#list{
+    border: 2px;
+    width: 500Px;
+    margin-left: 500PX;
+    border-radius: 10px;
+    border: 2px solid;
+    margin-top: 100px;
+}
+
+
+
+#to{
+    font-size: 20px;
+    color:red ;
+    text-decoration: underline;
+}
+
+#input{
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 300px;
+    outline: none;
+    
+}
+
+button{
+    padding: 8px;
+    width: 100px;
+    color: black;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+#text{
+    padding: 10px;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 370px;
+    border-radius: 5px;
+    margin-top: 20px;
+    
+}
+
